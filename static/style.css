@@ -1,12 +1,12 @@
 /* Light mode */
 body {
-  background-color: #d6ddec;
+  background-color: #b0d6d6;
   color: #121717;
 }
 
 /* Dark mode */
 .dark-mode {
-  background-color: #121717;
+  background-color: #21305985;
   color: #c9c9c9;
 }
 
@@ -133,13 +133,13 @@ body {
 .send i {
   display: block;
   width: 25px;
-  color: #125ee5;
+  color: #0056b3;
 }
 
 .reset i {
   display: block;
   width: 25px;
-  color: #125ee5;
+  color: #0056b3;
 }
 
 
